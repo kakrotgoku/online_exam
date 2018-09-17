@@ -1,0 +1,21 @@
+[29-Aug-2018 12:29:55 Asia/Kolkata] PHP Fatal error:  [CakeException] Unknown status code
+#0 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ExceptionRenderer.php(212): CakeResponse->statusCode(0)
+#1 [internal function]: ExceptionRenderer->error400(Object(SocketException))
+#2 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ExceptionRenderer.php(175): call_user_func_array(Array, Array)
+#3 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ErrorHandler.php(120): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(SocketException))
+#5 {main} in /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ErrorHandler.php on line 129
+[29-Aug-2018 12:31:26 Asia/Kolkata] PHP Fatal error:  [CakeException] Unknown status code
+#0 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ExceptionRenderer.php(212): CakeResponse->statusCode(0)
+#1 [internal function]: ExceptionRenderer->error400(Object(SocketException))
+#2 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ExceptionRenderer.php(175): call_user_func_array(Array, Array)
+#3 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ErrorHandler.php(120): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(SocketException))
+#5 {main} in /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ErrorHandler.php on line 129
+[29-Aug-2018 13:10:37 Asia/Kolkata] PHP Fatal error:  [CakeException] Unknown status code
+#0 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ExceptionRenderer.php(212): CakeResponse->statusCode(111)
+#1 [internal function]: ExceptionRenderer->error400(Object(SocketException))
+#2 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ExceptionRenderer.php(175): call_user_func_array(Array, Array)
+#3 /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ErrorHandler.php(120): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(SocketException))
+#5 {main} in /home/invitbbw/public_html/easyneet.com/lib/Cake/Error/ErrorHandler.php on line 129
