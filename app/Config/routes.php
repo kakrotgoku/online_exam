@@ -34,7 +34,6 @@ if(file_exists(TMP.'installed.txt'))
 }
 else
 {
-	echo 'test'; exit;
     Router::connect('/', array('controller' => 'installers'));
 }
 Router::parseExtensions('json');
